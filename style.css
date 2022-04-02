@@ -1,0 +1,24 @@
+html {
+  user-select: none;
+}
+
+.jumbotron {
+  background-color: #46dfd7;
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  font-family: Anja Eliane;
+}
+
+#Galeri {
+  background-color: #a2d9ff;
+  font-family: Anja Eliane;
+}
+
+section {
+  padding-top: 6rem;
+}
